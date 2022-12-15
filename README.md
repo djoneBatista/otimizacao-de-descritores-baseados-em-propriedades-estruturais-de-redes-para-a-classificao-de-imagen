@@ -1,0 +1,1 @@
+# otimizacao-de-descritores-baseados-em-propriedades-estruturais-de-redes-para-a-classificao-de-imagen
