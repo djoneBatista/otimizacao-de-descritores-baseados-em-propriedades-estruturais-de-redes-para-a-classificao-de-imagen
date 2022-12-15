@@ -1,1 +1,2 @@
-# otimizacao-de-descritores-baseados-em-propriedades-estruturais-de-redes-para-a-classificao-de-imagen
+# Este trabalho apresenta um levantamento do modelo de rede usado para representar imagens de contornos proposto por Backes et al. (1) e das principais descritores de redes usados para extrair características, que incluem uma comparação dos resultados obtidos por Miranda et al. (2), Ribas et al(3) e Scabini et al. (4). Foi realizado um estudo sobr…
+
